@@ -1,4 +1,4 @@
-FROM nginx:alpine
+FROM nginx
 MAINTAINER surya
 LABEL This is movie ticket booking platform
 EXPOSE 80
